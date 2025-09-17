@@ -64,3 +64,24 @@ streamlit run writer.py
 - `download_model.py` — model downloader
 - `models/tinyllama-1.1b-chat/` — downloaded TinyLlama weights
 - `consulting-contract-template-*.docx` — reference templates used for structure/style
+
+## Sample Generated Contract
+Excerpt from a generated consulting contract (full example saved at `c:\Users\Zeyad Elsawi\Downloads\generated_contract (2).txt`):
+
+```text
+This Consulting Contract ("Contract") is made and entered into by and between LINKTER ("Company"), located at [INSERT ADDRESS], ("Company") and LINKTER Consultants, LLC ("Consultant"), located at [INSERT ADDRESS], ("Consultant").
+
+WHEREAS, Company desires to engage Consultant to perform certain services in connection with Company's business operations; and
+
+WHEREAS, Consultant agrees to provide such services to Company in accordance with the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+1. PURPOSE
+
+a. This Consulting Contract sets forth the scope of services to be performed by Consultant, including but not limited to:
+i. Providing research and analysis related to Company's products and services.
+ii. Developing strategic plans and proposals.
+iii. Reviewing and updating Company's marketing materials and presentations.
+iv. Conducting market research and analysis.
+```
