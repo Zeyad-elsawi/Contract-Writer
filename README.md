@@ -1,4 +1,5 @@
-![Uploading Screenshot 2025-09-15 150351.png…]()
+<img width="1025" height="914" alt="Screenshot 2025-09-15 150351" src="https://github.com/user-attachments/assets/17ab3684-a4e1-430d-bbe5-f62a97efd02f" />
+
 
 ## Contract Generator (TinyLlama 1.1B)
 Generate well-structured consulting contracts using a lightweight local LLM (TinyLlama 1.1B). Fill in party names, dates, payment terms, and governing law; the app composes a complete contract using the provided consulting templates as style/structure references.
@@ -176,4 +177,5 @@ City, State ZIP Code: ___________________
 Phone Number: ______________________
 Email Address: ______________________
 ```
+
 
